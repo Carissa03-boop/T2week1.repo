@@ -1,13 +1,29 @@
-let susan = 12;
-let timmy = 20;
-let josh = 14;
-let win = false
+console.log("Hello World");
 
-let teamST = susan + timmy; 
-let victory = josh / 2;
-let answer = teamST + victory;
+var firstName = "Carissa"
+let surname ="Claassens"
+let integer = "19"
+const subject = "Development"
 
-console.log(victory);
-console.log(teamST);
-console.log(answer);
-console.log(win)
+let message = "Hello, my name is " + firstName + " " + surname + ", I am " + integer + " years old, and I am studying " + subject ;
+
+
+console.log(message)
+
+
+let numOne = "30"
+let numTwo = "60"
+let numThree = "10"
+let numFour = "3"
+
+let total = numOne + numTwo; 
+
+let total = numOne + numTwo / numThree * numFour
+
+let awnser = 0
+
+console.log("total")
+
+
+
+
